@@ -36,4 +36,4 @@ Calendar for users which allows them to record their routine activities, save us
 - Saved record will be stored in the browser.
 
 ## Mock-Up
-![Calendar](assets/Calendar.png)
+![](./Assets/Calendar.png)
